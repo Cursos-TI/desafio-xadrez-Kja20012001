@@ -8,7 +8,7 @@
 
         // Usando o FOR
         printf("Movimetação da Torre ( 5 Casas Para Direita): \n");   
-        for( int i =1; i<=torre; i++); 
+        for( int i =1; i<=torre; i++) 
         {
             // A TORRE SE MOVE EM LINHA PARA A DIREITA   
             printf("Direita \n");
