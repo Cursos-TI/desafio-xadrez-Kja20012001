@@ -40,6 +40,21 @@
 
         } while (passos_rainha<rainha);
         
+        printf("\n");
+
+        printf("Movimentação Cavalo, 2 casas para baixo e 1 para a Esquerda:\n");
+
+        for( int i=0; i<2; i++)
+        {
+            printf("Cima\n");
+        }
+
+        int casa_esquerda=0;
+        while(casa_esquerda<1)
+        {
+            printf("Esquerda\n");
+            casa_esquerda++;
+        }
 
 
 
